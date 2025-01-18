@@ -1,0 +1,29 @@
+.custom-link {
+    color: #ff6347;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+  
+  .link-logo {
+    width: 70px;
+    height: 70px;
+    margin-left: 4px; 
+  }
+  
+  .custom-link:hover {
+    color: #ff4500;
+  }
+  .logos-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 16px; 
+  }
+  
+  .link-logo {
+    width: 40px;
+    height: auto;
+  }
+  
+  
